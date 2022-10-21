@@ -21,7 +21,7 @@ This example gives users only what they need to get Mirantis Container Runtime i
 
 ## Release Notes
 
-### [Mirantis Kubernetes Engine 3.4.4 Release Notes](https://docs.mirantis.com/mke/3.4/rn-3-4/3-4-4.html)
+### [Mirantis Kubernetes Engine 3.4.4 Release Notes](https://docs.mirantis.com/mke/3.4/release-notes/3-4-4.html)
 
 This is an example of release notes for a patch release that includes new features, bug fixes, and known issues.
 
