@@ -11,4 +11,4 @@ As a graduate student, I studied analytic and classical Indian Buddhist philosop
 
 I've played music since I was a kid. I began learning electric bass when I was twelve, studied music composition as an undergraduate, and played in numerous groups along the way. I recorded two albums of all original music soon after finishing college.
 
-These days I live in Portland, OR with my partner and her two sons. When the weather's nice we go out of our way to visit the many bodies of water around here as much as humanly possible.
+These days I live in Portland, OR with my wife and two stepsons. When the weather's nice we like to explore the many bodies of water around here as much as we can.
