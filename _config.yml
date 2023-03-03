@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Paul J. Williams"
 title_separator          : "-"
-subtitle                 : "Technical Writing Portfolio" # site tagline that appears below site title in masthead
+subtitle                 : "Developer / Writer" # site tagline that appears below site title in masthead
 name                     : "Paul J. Williams"
-description              : "A personal site used primarily as my technical writing portfolio."
+description              : "Software development / technical writing portfolio site."
 url                      : "https://pauljwil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : pauljwil/pauljwil.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             :
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "My technical writing portfolio site"
+  bio              : "Portfolio Site"
   location         : "Portland, OR"
   email            :
   links:
