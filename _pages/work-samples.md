@@ -9,11 +9,11 @@ This page includes samples of my software development projects and technical wri
 
 ## Software Development
 
-### Golang
+<!-- ### Golang
 
 [RethinkDB Prometheus Exporter](https://github.com/pauljwil/prometheus-exporter)
 
-This fork of an existing RethinkDB exporter adds new metrics for the `current_issues` table and table sizes, as well as unit testing.
+This fork of an existing RethinkDB exporter adds new metrics for the `current_issues` table and table sizes, as well as unit testing. -->
 
 ### Python
 
