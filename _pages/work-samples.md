@@ -9,7 +9,7 @@ This page includes samples of my software development projects and technical wri
 
 ## Software Development
 
-### Golang
+### Go
 
 [Docker Registry Exporter](https://github.com/pauljwil/docker-registry-exporter)
 

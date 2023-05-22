@@ -5,12 +5,20 @@ permalink: /about/
 author_profile: true
 ---
 
-I've spent much of my adult life undertaking projects in music and philosophy. A common thread in all my pursuits is a strong interest in communication.
+I've always had a passion for communication, which has shaped my diverse
+pursuits in music and philosophy. During my time as a graduate student, I
+focused on analytic and classical Indian Buddhist philosophy, delving into
+topics such as the philosophy of emotion, moral psychology, and personal
+identity. One particular area of interest for me was exploring the nature of
+compassion.
 
-As a graduate student, I studied analytic and classical Indian Buddhist philosophy. My masters thesis dealt with the philosophy of emotion, moral psychology, and personal identity, focussing on the nature of compassion.
+Music has been an integral part of my life since I was young. I began playing
+electric bass at the age of twelve, studied music composition in college, and
+had the opportunity to perform with various groups along the way. After
+completing my studies, I recorded two albums featuring my original compositions.
 
-I've played music since I was a kid. I began learning electric bass when I was twelve, studied music composition as an undergraduate, and played in numerous groups along the way. I recorded two albums of all original music soon after finishing college.
+Currently residing in Portland, OR with my wife and two stepsons, we take every
+opportunity to explore the beautiful bodies of water this area has to offer.
 
-These days I live in Portland, OR with my wife and two stepsons. When the weather's nice we like to explore the many bodies of water around here as much as we can.
-
-Some of the things I value are simplicity, humility, and effective communication.
+Simplicity, humility, and effective communication are values that hold great
+importance to me.
