@@ -5,17 +5,17 @@ permalink: /work-samples/
 author_profile: true
 ---
 
-This page showcases a collection of my technical writing and software development projects. These samples provide insights into my skills and expertise in both disciplines, highlighting my ability to communicate complex technical concepts effectively and demonstrate proficiency in various programming languages and tools.
+This page showcases a collection of my technical writing and software development projects, demonstrating my skills and expertise in both disciplines. These samples provide insights into my ability to communicate complex technical concepts effectively and demonstrate proficiency in various programming languages and tools.
 
 ## Technical Writing
 
-The documentation samples provided here are tailored to the needs of DevOps Engineers, Cloud Architects, Site Reliability Engineers, System Administrators, Software Developers, and other professionals in similar roles. These resources are designed to effectively communicate technical concepts, procedures, and best practices to this target audience,.
+The documentation samples provided here are tailored to the needs of DevOps Engineers, Cloud Architects, Site Reliability Engineers, System Administrators, Software Developers, and other professionals in similar roles. These resources are designed to effectively communicate technical concepts, procedures, and best practices to this target audience.
 
 ### Deployment Procedures
 
 [Mirantis Secure Registry 3.0.x installation instructions](https://docs.mirantis.com/msr/3.0/install/install-online.html)
 
-This documentation was developed through an iterative process. Initially, I received information from a subject matter expert (SME), which I organized and drafted. However, the initial version lacked guidance on setting up the Kubernetes environment for the MSR cluster. Responding to customer feedback, I personally experienced the challenges of setting up a Kubernetes environment and documented my observations. I collaborated with a team member to incorporate this information into the documentation. As customer demands evolved, they requested additional verification steps to ensure the operational status of prerequisite components. I addressed this feedback by including verification instructions and troubleshooting commands for handling failed components.
+This documentation was developed through an iterative process. Initially, I received information from a subject matter expert (SME), which I organized and drafted. However, the initial version lacked guidance on setting up the Kubernetes environment for the MSR cluster. In response to customer feedback, I personally undertook the installation process to experience the challenges of setting up a Kubernetes environment and documented my observations. I collaborated with a team member to incorporate this information into the documentation. As customer demands evolved, they requested additional verification steps to ensure the operational status of prerequisite components. I addressed this feedback by including verification instructions and troubleshooting commands for handling failed components.
 
 ### Operations Guide
 
@@ -39,7 +39,7 @@ Revitalized the API documentation by migrating from Swagger to Redoc to enhance 
 
 Developed comprehensive API documentation for a cloud services platform utilizing the Apache CloudStack API. Created a user-friendly site using the Slate static site generator and GitHub Pages. Implemented a custom Javascript script to convert the API documentation from JSON to Markdown, ensuring a smooth and accurate transition between the data format and the markup language.
 
-## Troubleshooting Articles
+### Troubleshooting Articles
 
 [Troubleshoot migration with Mirantis Migration Tool](https://docs.mirantis.com/msr/3.0/migration-tool/troubleshoot-migration.html)
 
