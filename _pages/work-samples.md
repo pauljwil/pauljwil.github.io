@@ -3,6 +3,8 @@ layout: single
 title: Work Samples
 permalink: /work-samples/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 This page showcases a collection of my technical writing and software development projects, demonstrating my skills and expertise in both disciplines. These samples provide insights into my ability to communicate complex technical concepts effectively and demonstrate proficiency in various programming languages and tools.
