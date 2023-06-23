@@ -19,7 +19,11 @@ The documentation samples provided here are tailored to the needs of DevOps Engi
 
 This documentation was developed through an iterative process. Initially, I received information from a subject matter expert (SME), which I organized and drafted. However, the initial version lacked guidance on setting up the Kubernetes environment for the MSR cluster. In response to customer feedback, I personally undertook the installation process to experience the challenges of setting up a Kubernetes environment and documented my observations. I collaborated with a team member to incorporate this information into the documentation. As customer demands evolved, they requested additional verification steps to ensure the operational status of prerequisite components. I addressed this feedback by including verification instructions and troubleshooting commands for handling failed components.
 
-### Operations Guide
+### Operations Instructions
+
+[Configure NGINX Ingress Controller](https://docs.mirantis.com/mke/3.6/ops/deploy-apps-k8s/nginx-ingress.html)
+
+Creating this set of documentation topics was a straightforward process. I collaborated closely with the feature developer, who provided me with the necessary information to draft the articles. Together, we refined the content, ensuring its comprehensiveness. After undergoing technical writer and developer review, the content was published and has remained largely unchanged since that time.
 
 [Use Helm charts with Mirantis Secure Registry](https://docs.mirantis.com/msr/3.0/ops/use-helm-charts.html)
 
