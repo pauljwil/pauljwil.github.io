@@ -67,6 +67,14 @@ Delivers a streamlined installation guide for Mirantis Container Runtime (MCR), 
 
 In addition to my expertise as a technical writer, this page showcases my experience as a software developer, specializing in Go and Python. While the majority of my development work has been in private GitHub repositories, the featured projects offer a glimpse into the skills I have acquired while working as a developer. These projects serve as concrete examples of my coding abilities and demonstrate my technical proficiency in the software development field.
 
+### Fullstack
+
+[Recipes Online](https://github.com/pauljwil/recipes-online)
+
+Used React, Go, and MongoDB to create a fullstack web application for storing recipes that showcases my skills in web development, backend server programming, and database management.
+This application allows users to get, add, update, and delete recipes using a web interface. As the sole developer working on this project, I conceptualized, designed, and implemented
+both the frontend and backend components.
+
 ### Go
 
 [Docker Registry Exporter](https://github.com/pauljwil/docker-registry-exporter)
