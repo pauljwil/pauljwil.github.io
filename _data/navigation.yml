@@ -4,6 +4,8 @@ main:
     url: /work-samples/
   - title: "Resume"
     url: /assets/pdfs/pw-resume.pdf
+  - title: "Posts"
+    url: /year-archive/
   - title: "About"
     url: /about/
   # - title: "Quick-Start Guide"
