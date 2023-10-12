@@ -2,9 +2,7 @@
 title: "How working as a part-time developer made me a better technical writer"
 ---
 
-Hello, fellow technical writers. Today, I'll share with you the story of how I gained substantial software development experience while working as a technical writer. The question of how much coding expertise a software technical writer should possess is an ongoing topic of debate, and I personally believe that the answer depends on a lot of factors. In this post, I will share my experience as a part-time developer and explore how this journey has influenced my career as a technical communicator.
-
-I'll share the story of how I started, the things I worked on, how the experience has improved my technical writing, and I will speculate about the doors it has opened for me, professionally. This episode has been the most interesting I've had thus far in my technical career, and I hope that readers will benefit from learning about my experiences and perhaps even consider embarking on something similar in their own careers.
+Today, I'm going to tell you about how I gained real-world software development experience while working as a technical writer. The question of how much coding expertise a software technical writer should possess is an ongoing topic of debate, and I personally believe that the answer depends on a lot of factors. In this post, I will share my experience as a part-time developer and explore how this journey has influenced my career as a technical communicator.
 
 I'll begin with some context. I already had a fair amount of professional writing experience when I began as a technical writer, but I had very little experience coding. About one year into my first technical writing position, I dedicated myself to learning Python, coding for about an hour each morning before starting my workday. After spending several months on the basics, I challenged myself to automate various documentation tasks, such as making repetitive edits to large reference topics. What began as a way to improve my skills as a technical writer evolved into a love of coding.
 
@@ -35,7 +33,28 @@ While the bug fixes and telemetry feature were low priority and I could take the
 
 ## What I learned
 
-At this point, I want to note that for the majority of the time I worked as a part-time developer, I aspired to transition into a software engineering role. Eventually, I changed my mind, but I bring this up because I want acknowledge that it would have been difficult to remain motivated if I did not possess this goal. Given the nature of this post, I'll focus on how this experience has helped me as a technical communicator.
+At this point, I want to note that for the majority of the time I worked as a part-time developer, I aspired to transition into a software engineering role. Eventually, I changed my mind, but I bring this up because I want acknowledge that it would have been difficult to remain motivated if I did not possess this goal. Given the nature of this post, I'll focus on how this experience has helped me as a technical communicator. I'm now able to:
+
+* Generate code samples
+* Proofread code samples
+* Write scripts to automate various documentation tasks
+* Better understand the language of developers and the software I write about
+* Read and understand a codebase
+* Edit text within a user interface
+* Read logs and error messages
+* Improve logging within a codebase
+* Open PRs against a codebase
+* Participate in the PR review process
+* Understand PRDs and design documents
+* Work with CI/CD pipelines
+* Use advanced command-line techniques
+* Find my way around Kubernetes deployments
+* Use environment variables
+* SSH into other machines
+
+Some of these items have explicitly improved my writing, while most of them make me more resourceful. This greater resourcefulness aids with the many non-writing tasks that technical writers are responsible for.
+
+There are three additional benefits that I want to explore in greater detail.
 
 ### Different paces
 
@@ -59,12 +78,12 @@ This is one of the most important skills I gained while working as a part-time d
 
 Working as a part-time developer has aided my work as a technical writer, and I suspect that it has given my career a boost as well. It is difficult to know for sure, but I recently changed jobs, and I think that having development work on my resume helped me to stand out and ultimately aided in securing my new role.
 
-I have approximately four years of technical writing experience, most of which have been spent at the same company. I started applying to jobs in June of 2023, in a very competitive market. I applied to around 20 positions and interviewed at four – two start ups and two larger companies. Of these four companies I received an offer from one, a large tech company whose docs team has a great reputation. I was passed over by the two startups, and I withdrew my application from the fourth. In total, it took three months to secure the new job.
+With so many recent layoffs, I'm sure that I was up against many candidates with more than my four years of technical writing experience. Considering the challenges in the job market for technical writers, I was fortunate to secure interviews and a new position at a reputable company relatively quickly. Furthermore, a number of my interviewers expressed a strong interest in my development experience.
 
-With so many recent layoffs, I'm sure that I was up against many candidates with more than four years of technical writing experience. Granted there is a lot more that goes into a resume than years spent on the job, and I am fortunate to posses other strengths, such as a master's degree, a background in professional writing prior to my transition into technical writing, and publicly available writing samples on complex technical subjects. Considering the challenges in the job market for technical writers, I was fortunate to secure interviews and a new position at a reputable company relatively quickly. Furthermore, a number of my interviewers, primarily developers and operations professionals, expressed a strong interest in my development experience.
-
-I think that this post would be incomplete without acknowledging that not everyone will have time in their busy schedules to take on such a project as this and not every company will be willing to extend such an opportunity. Moreover, I believe that technical proficiency is only one among many different strengths that writers can foster to excel in their roles. Diving deeply into development work is not for everybody, and I don't think it's essential to becoming an excellent technical writer. In fact, in many ways it is overkill, as not all the skills learned are directly applicable to writing. But for me, the experience I've shared here unfolded in a way that has proven to be very beneficial, and I wanted to share it in the hope that others may find value in it as well.
+Another benefit to my career is that I now consider a wider variety of opportunities available to me in the future. The traditional technical writing career path is a very straightforward and linear one. The available job titles are pretty much Junior through Staff or Principal Technical Writer, and possibly Documentation Team Lead or Manager. Now that I posses some development experience, I feel that I can also consider roles such as Programmer Writer, API Technical Writer, Developer Advocate, and Software Developer. Given all the uncertainty around the future of jobs, having these additional options brings me a greater sense of security.
 
 One last thing that I will say about my work as a part-time developer is that it has helped me to feel more confident in my role. When I first started as a technical writer, I felt somewhat out of place. Seemingly everyone around me could speak the language of scripting, development, and cloud operations. Working as a developer, I learned to communicate in the same language as my colleagues. This helps my writing, but it also helps me to feel greater confidence at work. And feeling more confident, I am happier overall as well. Spending some time as a developer has been extremely beneficial to me in numerous ways.
 
-I hope that if you're a technical writer who is looking to gain experience as a developer, this post has given you some insight into what this experience could entail.
+I think that this post would be incomplete without acknowledging that not everyone will have time in their busy schedules to take on such a project as this and not every company will be willing to extend such an opportunity. Moreover, I believe that technical proficiency is only one among many different strengths that writers can foster to excel in their roles. Diving deeply into development work is not for everybody, and I don't think it's essential to becoming an excellent technical writer. But for me, the experience I've shared here unfolded in a way that has proven to be very beneficial, and I wanted to share it in the hope that others may find value in it as well.
+
+If you're a technical writer who is looking to gain experience as a developer, I hope that this post has given you some insight into what this experience could entail.
