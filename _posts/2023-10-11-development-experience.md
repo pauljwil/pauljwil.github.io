@@ -33,7 +33,7 @@ While the bug fixes and telemetry feature were low priority and I could take the
 
 ## What I learned
 
-At this point, I want to note that for the majority of the time I worked as a part-time developer, I aspired to transition into a software engineering role. Eventually, I changed my mind, but I bring this up because I want acknowledge that it would have been difficult to remain motivated if I did not possess this goal. Given the nature of this post, I'll focus on how this experience has helped me as a technical communicator. I'm now able to:
+At this point, I want to note that for the majority of the time I worked as a part-time developer, I aspired to transition into a software engineering role. Eventually, I changed my mind, but I bring this up because I want to acknowledge that it would have been difficult to remain motivated if I did not possess this goal. Given the nature of this post, I'll focus on how this experience has helped me as a technical communicator. I'm now able to:
 
 * Generate code samples
 * Proofread code samples
