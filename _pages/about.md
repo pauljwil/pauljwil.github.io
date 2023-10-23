@@ -17,7 +17,7 @@ electric bass at the age of twelve, studied music composition in college, and
 had the opportunity to perform with various groups along the way. After
 completing my studies, I recorded two albums featuring my original compositions.
 
-Currently residing in Portland, OR with my wife, two stepsons, our adorable
+Currently residing in Portland, OR with my wife, two stepsons, and our adorable
 little Chiweenie, Fernie, we take every opportunity to explore the beauty of the
 Pacific Northwest.
 
