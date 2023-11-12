@@ -51,9 +51,9 @@ Developed comprehensive API documentation for a cloud services platform utilizin
 
 With extensive involvement in testing the Mirantis Migration Tool (MMT), I collaborated with another writer to create a comprehensive troubleshooting section for the MMT documentation, from which this page is drawn. Working closely with developers and the QA team, we documented detailed troubleshooting steps for different problem scenarios encountered during MMT testing. As users reported issues with the tool, we continuously expanded and enhanced the troubleshooting section to address emerging challenges. Taking the lead in drafting the additional content, I ensured its accuracy and clarity, which was further refined through reviews by a technical writer and SMEs.
 
-### Release notes
+### Release Notes
 
-[Mirantis Secure Registry 2.9.1 Release Notes](https://web.archive.org/web/20231110152837/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F2.9%2Frelease-notes%2F2-9-1.html)
+[Mirantis Secure Registry 2.9.1 release rotes](https://web.archive.org/web/20231110152837/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F2.9%2Frelease-notes%2F2-9-1.html)
 
 Authored release notes encompassing product enhancements, issue resolutions, and security updates. Collaborated with ticket owners in Jira to create initial drafts for each release note, ensuring accurate and comprehensive coverage. Coordinated with a technical writer and the engineering team lead to review and edit the collection of release notes, incorporating their feedback and suggestions. Iteratively refined the drafts based on the review process until the release notes received final approval.
 
