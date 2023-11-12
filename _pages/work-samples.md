@@ -13,31 +13,31 @@ This page showcases a collection of my technical writing and software developmen
 
 The documentation samples provided here are tailored to the needs of DevOps Engineers, Cloud Architects, Site Reliability Engineers, System Administrators, Software Developers, and other professionals in similar roles. These resources are designed to effectively communicate technical concepts, procedures, and best practices to this target audience.
 
-### Deployment Procedures
+### Procedural
 
-[Mirantis Secure Registry 3.0.x installation instructions](https://docs.mirantis.com/msr/3.0/install/install-online.html)
+[Configure a canary deployment](https://web.archive.org/web/20231110150936/https%3A%2F%2Fdocs.mirantis.com%2Fmke%2F3.6%2Fops%2Fdeploy-apps-k8s%2Fnginx-ingress%2Fconfigure-canary-deployment.html)
 
-This documentation was developed through an iterative process. Initially, I received information from a subject matter expert (SME), which I organized and drafted. However, the initial version lacked guidance on setting up the Kubernetes environment for the MSR cluster. In response to customer feedback, I personally undertook the installation process to experience the challenges of setting up a Kubernetes environment and documented my observations. I collaborated with a team member to incorporate this information into the documentation. As customer demands evolved, they requested additional verification steps to ensure the operational status of prerequisite components. I addressed this feedback by including verification instructions and troubleshooting commands for handling failed components.
+This is one of several topics in a section on configuring Mirantis Kubernetes Engine (MKE) to use NGINX Ingress Controller. I collaborated closely with the feature developer, who provided me with the necessary information to draft the articles. Together, we refined the content, ensuring its comprehensiveness. After undergoing technical writer and developer review, the content was published and has remained largely unchanged since that time.
 
-### Operations Instructions
+[Configure Prometheus to scrape MSR metrics](https://web.archive.org/web/20231110150634/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F3.1%2Fops%2Fmonitor-msr%2Fcollect-msr-metrics%2Fconfigure-prometheus.html)
 
-[Configure NGINX Ingress Controller](https://docs.mirantis.com/mke/3.6/ops/deploy-apps-k8s/nginx-ingress.html)
+Serving as the primary software developer in the creation of this feature, I acted as my own SME in the documentation process. I documented the configuration procedure through a combination of referencing my development notes and working with other developers to ensure that the documentation would work across orchestration platforms. The final draft went through both developer and technical writer reviews.
 
-Creating this set of documentation topics was a straightforward process. I collaborated closely with the feature developer, who provided me with the necessary information to draft the articles. Together, we refined the content, ensuring its comprehensiveness. After undergoing technical writer and developer review, the content was published and has remained largely unchanged since that time.
+### Conceptual
 
-[Use Helm charts with Mirantis Secure Registry](https://docs.mirantis.com/msr/3.0/ops/use-helm-charts.html)
+[MSR product overview](https://web.archive.org/web/20231110153612/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F3.1%2Foverview.html)
 
-This portfolio piece showcases a diverse range of documentation types, including conceptual, procedural, and reference materials. Initially, I received the raw content from the developer responsible for the feature. I then restructured and transformed the content into draft form. Another technical writer then provided valuable edits, which I incorporated into the document. I refined and revised the draft until it received approval from both the documentation and development teams.
+Already in publication when I started at Mirantis, I reworked this page over the years to survey evolving feature offerings and an expanding set of platforms on which the software could run. Updates to this overview received SME, engineering manager, and technical writer reviews prior to publication.
 
-### Reference Material
+### Reference
 
-[Mirantis Secure Registry 3.0 system requirements](https://docs.mirantis.com/msr/3.0/common/msr-system-reqs.html)
+[Mirantis Secure Registry 3.0 system requirements](https://web.archive.org/web/20231110151437/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F3.0%2Fcommon%2Fmsr-system-reqs.html)
 
 This documentation outlines the essential system resource requirements and recommended allotments for running MSR 3.0. I first received the necessary information from the development team, which I organized and presented in draft form. To ensure accuracy and clarity, the draft underwent thorough editing and approval processes led by another writer and the development team. Subsequently, valuable feedback from customers and the support team was collected, and I incorporated their input into the current version of the documentation.
 
-### API Documentation
+### API
 
-[Mirantis Kubernetes Engine 3.6.2 API documentation](https://docs.mirantis.com/mke/3.6/api-ref/mke-api-3-6-2.html)
+[Mirantis Kubernetes Engine 3.6.2 API documentation](https://web.archive.org/web/20231110151635/https://docs.mirantis.com/mke/3.6/api-ref/mke-api-3-6-2.html)
 
 Revitalized the API documentation by migrating from Swagger to Redoc to enhance the overall presentation. Created an OpenAPI specification from the Golang codebase for each release and integrated it into the Sphinx-based documentation site.
 
@@ -45,23 +45,17 @@ Revitalized the API documentation by migrating from Swagger to Redoc to enhance 
 
 Developed comprehensive API documentation for a cloud services platform utilizing the Apache CloudStack API. Created a user-friendly site using the Slate static site generator and GitHub Pages. Implemented a custom Javascript script to convert the API documentation from JSON to Markdown, ensuring a smooth and accurate transition between the data format and the markup language.
 
-### Troubleshooting Articles
+### Troubleshooting
 
-[Troubleshoot migration with Mirantis Migration Tool](https://docs.mirantis.com/msr/3.0/migration-tool/troubleshoot-migration.html)
+[Filesystem storage back ends](https://web.archive.org/web/20231110151937/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F3.0%2Fmigration-tool%2Ftroubleshoot-migration%2Ffilesystem-storage-back-ends.html)
 
-With extensive involvement in testing the Mirantis Migration Tool (MMT), I collaborated with another writer to create a comprehensive troubleshooting section for the MMT documentation. Working closely with developers and the QA team, we documented detailed troubleshooting steps for different problem scenarios encountered during MMT testing. As users reported issues with the tool, we continuously expanded and enhanced the troubleshooting section to address emerging challenges. Taking the lead in drafting the additional content, I ensured its accuracy and clarity, which was further refined through reviews by a technical writer and SMEs.
+With extensive involvement in testing the Mirantis Migration Tool (MMT), I collaborated with another writer to create a comprehensive troubleshooting section for the MMT documentation, from which this page is drawn. Working closely with developers and the QA team, we documented detailed troubleshooting steps for different problem scenarios encountered during MMT testing. As users reported issues with the tool, we continuously expanded and enhanced the troubleshooting section to address emerging challenges. Taking the lead in drafting the additional content, I ensured its accuracy and clarity, which was further refined through reviews by a technical writer and SMEs.
 
 ### Release Notes
 
-[Mirantis Kubernetes Engine 3.5 Release Notes](https://docs.mirantis.com/mke/3.5/release-notes.html)
+[Mirantis Secure Registry 2.9.1 release rotes](https://web.archive.org/web/20231110152837/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F2.9%2Frelease-notes%2F2-9-1.html)
 
-Authored release notes for multiple patch releases, encompassing product enhancements, issue resolutions, security updates, known issues, and middleware versioning details. Collaborated with ticket owners in Jira to create initial drafts for each release note, ensuring accurate and comprehensive coverage. Coordinated with a technical writer and the engineering team lead to review and edit the collection of release notes, incorporating their feedback and suggestions. Iteratively refined the drafts based on the review process until the release notes received final approval.
-
-### QuickStart Guide
-
-[Install Mirantis Container Runtime on Ubuntu](https://docs.mirantis.com/mcr/20.10/qs-ubuntu.html)
-
-Delivers a streamlined installation guide for Mirantis Container Runtime (MCR), enabling users to quickly set up and run MCR in less than an hour. Optimized the comprehensive installation instructions to include only the essential steps required for installing MCR in a test environment. Collaborated with a technical writer and SME to review and refine the draft. Iteratively revised the guide based on their feedback until it received their final approvals.
+Authored release notes encompassing product enhancements, issue resolutions, and security updates. Collaborated with ticket owners in Jira to create initial drafts for each release note, ensuring accurate and comprehensive coverage. Coordinated with a technical writer and the engineering team lead to review and edit the collection of release notes, incorporating their feedback and suggestions. Iteratively refined the drafts based on the review process until the release notes received final approval.
 
 ## Software Development
 
