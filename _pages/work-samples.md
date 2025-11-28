@@ -7,7 +7,28 @@ toc: true
 toc_sticky: true
 ---
 
-This page showcases a collection of my technical writing and software development projects, demonstrating my skills and expertise in both disciplines. These samples provide insights into my ability to communicate complex technical concepts effectively and demonstrate proficiency in various programming languages and tools.
+This page highlights my work in content operations, technical writing, and software development. The samples demonstrate my ability to solve complex problems, architect scalable documentation solutions, and communicate technical concepts to diverse audiences. You’ll also find examples of my proficiency in Go, Python, and other tools used to deliver impactful results across multiple domains.
+
+## Content Operations
+
+The following case studies highlight my work as a DITA Information Architect. These examples showcase how I design and implement scalable documentation systems, drive process automation, and solve complex challenges in content management.
+
+### Content migration to DITA CCMS
+
+* **Overview:** Migrated 30,000+ topics from legacy documentation sites into a DITA-based CCMS, unifying product content and versioning.
+* **Role:** Led migration strategy, built automation scripts, and designed scalable processes.
+* **Challenges:** Complex legacy structures, diverse versioning, and minimizing manual cleanup.
+* **Solution:** Automated content conversion and DITA map creation with Python and XSLT; built a version diff tool to upload only changed topics between versions and resource ID-based linking for cross-deliverable links; accelerated delivery with AI-assisted coding.
+* **Impact:** Reduced manual workload, improved content reuse, and enabled reliable cross-product navigation.
+* **Learn more:** [Lessons Learned in an AI-Assisted Content Migration](https://blogs.cisco.com/innovation/lessons-from-an-ai-assisted-content-migration) on the Cisco Innovation blog.
+
+### Heretto Sitemap Governance
+
+* **Overview:** Improved sitemap integrity for DITA CCMS documentation by leading governance and process alignment initiatives.
+* **Role:** Led policy creation, stakeholder alignment, and process improvements.
+* **Challenges:** Drift between master and production sitemaps, inconsistent merging practices, and risk of content misalignment.
+* **Solution:** Cleaned up and synchronized sitemaps, introduced conditional processing to safely merge references, and authored a sitemap governance policy to standardize practices.
+* **Impact:** Increased release predictability, reduced rework, and ensured long-term platform stability.
 
 ## Technical Writing
 
@@ -59,15 +80,7 @@ Authored release notes encompassing product enhancements, issue resolutions, and
 
 ## Software Development
 
-In addition to my expertise as a technical writer, this page showcases my experience as a software developer, specializing in Go and Python. While the majority of my development work has been in private GitHub repositories, the featured projects offer a glimpse into the skills I have acquired while working as a developer. These projects serve as concrete examples of my coding abilities and demonstrate my technical proficiency in the software development field.
-
-### Fullstack
-
-[Recipes Online](https://github.com/pauljwil/recipes-online)
-
-Used React, Go, and MongoDB to create a fullstack web application for storing recipes that showcases my skills in web development, backend server programming, and database management.
-This application allows users to get, add, update, and delete recipes using a web interface. As the sole developer working on this project, I conceptualized, designed, and implemented
-both the frontend and backend components.
+In addition to my expertise in content operations and technical communication, this page showcases my experience as a software developer, specializing in Go and Python. While the majority of my development work has been in private GitHub repositories, the featured projects offer a glimpse into the skills I have acquired while working as a developer. These projects serve as concrete examples of my coding abilities and demonstrate my technical proficiency in the software development field.
 
 ### Go
 
