@@ -24,9 +24,9 @@ The following case studies highlight my work as a DITA Information Architect. Th
 
 ### Heretto Sitemap Governance
 
-* **Overview:** Improved sitemap integrity for DITA CCMS documentation by leading governance and process alignment initiatives.
+* **Overview:** Improved DITA CCMS sitemap integrity by leading governance and process alignment initiatives.
 * **Role:** Led policy creation, stakeholder alignment, and process improvements.
-* **Challenges:** Drift between master and production sitemaps, inconsistent merging practices, and risk of content misalignment.
+* **Challenges:** Drift between staging and production sitemaps, inconsistent merging practices, and risk of content misalignment.
 * **Solution:** Cleaned up and synchronized sitemaps, introduced conditional processing to safely merge references, and authored a sitemap governance policy to standardize practices.
 * **Impact:** Increased release predictability, reduced rework, and ensured long-term platform stability.
 
