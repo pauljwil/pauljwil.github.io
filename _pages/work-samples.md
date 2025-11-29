@@ -7,19 +7,19 @@ toc: true
 toc_sticky: true
 ---
 
-This page highlights my work in content operations, technical writing, and software development. The samples demonstrate my ability to solve complex problems, architect scalable documentation solutions, and communicate technical concepts to diverse audiences. You’ll also find examples of my proficiency in Go, Python, and other tools used to deliver impactful results across multiple domains.
+This page highlights my work in information architecture, content engineering, technical writing, and software development. The samples demonstrate my ability to solve complex problems, architect scalable documentation systems, and communicate technical concepts effectively.
 
-## Content Operations
+## Case studies
 
-The following case studies highlight my work as a DITA Information Architect. These examples showcase how I design and implement scalable documentation systems, drive process automation, and solve complex challenges in content management.
+Strategic projects in content architecture, automation, and documentation systems.
 
 ### Content migration to DITA CCMS
 
 * **Overview:** Migrated 30,000+ topics from legacy documentation sites into a DITA-based CCMS, unifying product content and versioning.
 * **Role:** Led migration strategy, built automation scripts, and designed scalable processes.
 * **Challenges:** Complex legacy structures, diverse versioning, and minimizing manual cleanup.
-* **Solution:** Automated content conversion and DITA map creation with Python and XSLT; built a version diff tool to upload only changed topics between versions and resource ID-based linking for cross-deliverable links; accelerated delivery with AI-assisted coding.
-* **Impact:** Reduced manual workload, improved content reuse, and enabled reliable cross-product navigation.
+* **Solution:** Automated content conversion and DITA map creation with Python and XSLT, built a version diff tool to upload only changed topics between versions, and accelerated delivery with AI-assisted coding.
+* **Impact:** Dramatically reduced manual post-migration cleanup, improved content reuse, and enabled reliable cross-product navigation.
 * **Learn more:** [Lessons Learned in an AI-Assisted Content Migration](https://blogs.cisco.com/innovation/lessons-from-an-ai-assisted-content-migration) on the Cisco Innovation blog.
 
 ### Heretto Sitemap Governance
@@ -27,12 +27,12 @@ The following case studies highlight my work as a DITA Information Architect. Th
 * **Overview:** Improved DITA CCMS sitemap integrity by leading governance and process alignment initiatives.
 * **Role:** Led policy creation, stakeholder alignment, and process improvements.
 * **Challenges:** Drift between staging and production sitemaps, inconsistent merging practices, and risk of content misalignment.
-* **Solution:** Cleaned up and synchronized sitemaps, introduced conditional processing to safely merge references, and authored a sitemap governance policy to standardize practices.
+* **Solution:** Cleaned up and synchronized sitemaps, introduced conditional processing to safely merge references, authored a sitemap governance policy to standardize practices.
 * **Impact:** Increased release predictability, reduced rework, and ensured long-term platform stability.
 
 ## Technical Writing
 
-The documentation samples provided here are tailored to the needs of DevOps Engineers, Cloud Architects, Site Reliability Engineers, System Administrators, Software Developers, and other professionals in similar roles. These resources are designed to effectively communicate technical concepts, procedures, and best practices to this target audience.
+Technical documentation samples for DevOps engineers, system administrators, cloud architects, SREs, and developers. Some of the pages are hosted on the Internet Archive and can take up to 10 seconds to load.
 
 ### Procedural
 
@@ -74,13 +74,13 @@ With extensive involvement in testing the Mirantis Migration Tool (MMT), I colla
 
 ### Release Notes
 
-[Mirantis Secure Registry 2.9.1 release rotes](https://web.archive.org/web/20231110152837/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F2.9%2Frelease-notes%2F2-9-1.html)
+[Mirantis Secure Registry 2.9.1 release notes](https://web.archive.org/web/20231110152837/https%3A%2F%2Fdocs.mirantis.com%2Fmsr%2F2.9%2Frelease-notes%2F2-9-1.html)
 
 Authored release notes encompassing product enhancements, issue resolutions, and security updates. Collaborated with ticket owners in Jira to create initial drafts for each release note, ensuring accurate and comprehensive coverage. Coordinated with a technical writer and the engineering team lead to review and edit the collection of release notes, incorporating their feedback and suggestions. Iteratively refined the drafts based on the review process until the release notes received final approval.
 
 ## Software Development
 
-In addition to my expertise in content operations and technical communication, this page showcases my experience as a software developer, specializing in Go and Python. While the majority of my development work has been in private GitHub repositories, the featured projects offer a glimpse into the skills I have acquired while working as a developer. These projects serve as concrete examples of my coding abilities and demonstrate my technical proficiency in the software development field.
+Select software projects in Go and Python, highlighting my coding skills and technical experience.
 
 ### Go
 
