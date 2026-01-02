@@ -22,6 +22,14 @@ Strategic projects in content architecture, automation, and documentation system
 * **Impact:** Dramatically reduced manual post-migration cleanup, improved content reuse, and enabled reliable cross-product navigation.
 * **Learn more:** [Lessons Learned in an AI-Assisted Content Migration](https://blogs.cisco.com/innovation/lessons-from-an-ai-assisted-content-migration) on the Cisco Innovation blog.
 
+### XPath Search plugin for the DITA Open Toolkit
+
+* **Overview:** Developed an XPath Search plugin for the DITA Open Toolkit to enable advanced search in Heretto CCMS.
+* **Role:** Designed, built, and integrated the plugin.
+* **Challenges:** Overcame limitations of basic search; enabled precise querying for large content sets.
+* **Solution:** Created XPath-based search functionality, allowing writers to efficiently find keys, metadata, and content inside specific elements.
+* **Impact:** Streamlined content updates, improved accuracy, and reduced manual effort for teams.
+
 ### Heretto Sitemap Governance
 
 * **Overview:** Improved DITA CCMS sitemap integrity by leading governance and process alignment initiatives.
