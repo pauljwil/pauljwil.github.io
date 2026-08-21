@@ -9,7 +9,7 @@ I've always had a passion for communication, which has shaped my diverse pursuit
 
 Music has been an integral part of my life since I was young. I began playing electric bass when I was 12, studied music composition in college, and had the opportunity to perform with various groups along the way. After completing my studies, I recorded two albums featuring original compositions.
 
-My current focus on information architecture, content engineering, and technical communication brings together the creative and analytical rigor of my past pursuits, shaping an enjoyable career that I hope contributes meaningfully to the tech comm community.
+My current focus on knowledge engineering, content architecture, and AI enablement brings together the creative and analytical rigor of my past pursuits, shaping an enjoyable career that I hope contributes meaningfully to the wider community working at the intersection of content, code, and AI.
 
 Currently residing in Portland, OR with my wife, two stepsons, and our adorable little chiweenie, we take every opportunity to explore the beauty of the Pacific Northwest.
 
