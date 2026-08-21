@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Paul Williams"
 title_separator          : "-"
-subtitle                 : "Content Architecture, Engineering, & Technical Communication" # site tagline that appears below site title in masthead
+subtitle                 : "Knowledge Engineering | Content Architecture | AI Enablement" # site tagline that appears below site title in masthead
 name                     : "Paul Williams"
-description              : "Content engineering and technical writing portfolio site."
+description              : "Knowledge engineering, content architecture, and AI enablement portfolio site."
 url                      : "https://pauljwil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : pauljwil/pauljwil.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)

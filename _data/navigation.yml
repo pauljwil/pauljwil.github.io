@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Work Samples"
-    url: /work-samples/
+  - title: "Case Studies"
+    url: /case-studies/
+  - title: "Articles"
+    url: /year-archive/
   - title: "Resume"
     url: /assets/pdfs/pw-resume.pdf
-  - title: "Posts"
-    url: /year-archive/
   - title: "About"
     url: /about/
   # - title: "Quick-Start Guide"

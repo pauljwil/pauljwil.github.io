@@ -6,3 +6,15 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// The theme scales the root font size to 20px/22px on wide viewports, which
+// reads oversized. Everything else is rem-based, so this rescales the site.
+html {
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 19px;
+  }
+}
