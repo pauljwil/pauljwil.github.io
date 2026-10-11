@@ -23,6 +23,18 @@ The case studies below represent enterprise work completed at Cisco/Splunk. Beca
 
 **Learn more:** [Building knowledge pipelines for AI-assisted authoring](/knowledge-pipelines-for-ai-assisted-authoring/).
 
+## AI-friendly Markdown repository
+
+**Overview:** Transformed an enterprise DITA CCMS content set, roughly 2,600 guides and 165,000 topics, into a GitHub-flavored Markdown repository for AI agent ingestion, regenerated daily from the same source as the customer documentation site.
+
+**Role:** Built the transformation and publishing pipeline, and designed the requirements with the wider content engineering team.
+
+**Challenges:** Agents needed to locate content without crawling the entire repository, so both the file tree and the metadata had to express how the documentation site is actually organized, in a structure people can scan as readily as agents can traverse it. Topic identity also had to stay stable across daily rebuilds. And because each rebuild republishes the full set, a guide that had merely failed to build could not be allowed to vanish.
+
+**Solution:** A Python pipeline flattens each guide into a single directory, rewrites cross-references, and names every topic by a stable source identifier, so agent citations survive daily rebuilds. Delivery paths mirror the site's navigation, and a machine-readable catalog with an `llms.txt` entry point lets agents filter by product, platform, and version before downloading anything. Markdown-only output reduces markup overhead, and sparse checkout lets agents fetch only the guides they need. Publishing mirrors current source, holds the last known good copy of any guide that fails, and halts the run when failures spike rather than shipping a degraded set. It runs on the [documentation automation platform](#documentation-platform-automation) described below.
+
+**Impact:** Gives internal teams and their agents one authoritative, token-efficient copy of the documentation, navigable by metadata, in place of one-off scrapers and stale snapshots. Daily regeneration keeps the repository current, and stable topic identity makes agent citations traceable to a source topic.
+
 ## Documentation platform automation
 
 **Overview:** Built a CI-driven automation platform for our DITA CCMS, maintaining a nightly mirror of a multi-gigabyte content set and extending it with reporting, metadata write-back, PDF refreshes, and Markdown generation for AI consumption.
